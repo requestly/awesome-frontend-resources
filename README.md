@@ -2,9 +2,6 @@
 
 > A curated collection of awesome resources for frontend developers: tutorials, tools, libraries, design assets, and more!
 
-### Why Awesome Frontend Resources?
-We're a passionate team developing a devtool that relies heavily on cutting-edge frontend technologies. Our enthusiasm for the frontend ecosystem drives us to continuously learn, innovate, and share. As avid consumers of open source content, we've benefited immensely from the community's collective knowledge. Inspired by the support we've received, we created Awesome Frontend Resources to give back to the community.
-
 ### What is Awesome Frontend Resources?
 This repository is our way of assembling the best tutorials, tools, libraries, design assets, and more into a single, easy-to-navigate collection. Whether you're just beginning your journey or are a seasoned pro, we hope this resource helps you as much as the community has helped us. We taking extra care to not make it overwhelming, we ensure its easy to scan and follow.
 
