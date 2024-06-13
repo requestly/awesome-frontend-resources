@@ -58,10 +58,28 @@ The journey of becoming a frontend developer can feel overwhelming, but structur
 
 
 ### Tutorials
-- [Javascript.info](https://javascript.info/) — A detailed and interactive JavaScript tutorial covering basic to advanced topics.
-- [MDN: Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript) — Comprehensive documentation and tutorials for JavaScript and web development.
-- [JavaScrip Design Patterns](https://www.patterns.dev/) — A resource for learning design patterns in JavaScript for writing clean and efficient code.
-- [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbook.io/mostly-adequate-guide) — An accessible guide to functional programming concepts in JavaScript.
+- JavaScript
+    - [Javascript.info](https://javascript.info/) — A detailed and interactive JavaScript tutorial covering basic to advanced topics.
+    - [MDN: Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript) — Comprehensive documentation and tutorials for JavaScript and web development.
+    - [JavaScrip Design Patterns](https://www.patterns.dev/) — A resource for learning design patterns in JavaScript for writing clean and efficient code.
+    - [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbook.io/mostly-adequate-guide) — An accessible guide to functional programming concepts in JavaScript.
+- React
+    - [Youtube: React Tutorial for Beginners](https://www.youtube.com/watch?v=SqcY0GlETPk) — A beginner-friendly video tutorial introducing the fundamentals of React.
+- React Native
+    - [Official: Tutorial cum Doc](https://reactnative.dev/docs/getting-started) — The official React Native documentation and tutorial for getting started.
+    - [Youtube: React Native Tutorial for Beginners by Codevolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhiQJD1di4eRVN30WWCXkg1) — A beginner's guide to learning React Native, covering the basics of building mobile apps.
+    - [Youtube: React Native Course for Beginners by JavaScript Mastry](https://www.youtube.com/watch?v=ZBCUegTZF7M) — A comprehensive course for beginners to learn React Native.
+- Vue
+    - [Official: Tutorial](https://vuejs.org/tutorial/) — The official Vue.js tutorial for learning the basics and advanced concepts of the framework.
+    - [Youtube: Vue 3 with TypeScript Jump Start](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gCtAuEdXTjNVE5bbMFo5OD) — A beginner's guide to learning Vue 3 with TypeScript, providing a solid foundation in both technologies.
+- Angular
+    - [Official: Tutorial](https://angular.dev/tutorials/learn-angular)
+    - [Youtube: Learn Angular A-Z: Complete Tutorial for Beginners](https://www.youtube.com/watch?v=JWhRMyyF7nc)
+- Node
+    - [How to Get Started with NodeJS – a Handbook for Beginners](https://www.freecodecamp.org/news/get-started-with-nodejs/)
+    - [Official: Tutorial](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
+- Apple
+    - [Official Swift Tutorial](https://developer.apple.com/learn/)
 
 
 ### Courses
@@ -79,7 +97,17 @@ The journey of becoming a frontend developer can feel overwhelming, but structur
 - [Closures Explained in 100 Seconds](https://www.youtube.com/watch?v=vKJpN5FAeF4) — A quick and concise video explaining JavaScript closures.
 
 ## Docs & CheatSheets
+### Cheatsheets
 - [HTML Cheatsheets](https://websitesetup.org/html5-cheat-sheet/) — A handy reference for HTML5 elements and attributes.
+
+### Official Documentations
+- [JavaScript(MDN)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [React](https://react.dev/reference/react)
+- [React Native](https://reactnative.dev/docs/getting-started)
+- [Vue.js](https://vuejs.org/guide/introduction.html)
+- [Angular](https://angular.dev/overview)
+- [Node.js](https://nodejs.org/docs/latest/api/)
+- [Android](https://developer.android.com/develop)
 
 ## Communities
 - [dev.to](https://dev.to/) — A community platform for developers to share articles, tutorials, and discussions.
