@@ -3,7 +3,7 @@
 > A curated collection of awesome resources for frontend developers: tutorials, tools, libraries, design assets, and more!
 
 ### What is Awesome Frontend Resources?
-This repository is our way of assembling the best tutorials, tools, libraries, design assets, and more into a single, easy-to-navigate collection. Whether you're just beginning your journey or are a seasoned pro, we hope this resource helps you as much as the community has helped us. We taking extra care to not make it overwhelming, we ensure its easy to scan and follow.
+Awesome Frontend Resources is a curated collection of top tutorials, tools, libraries, and design assets for frontend development. Whether you're a beginner or a seasoned pro, this easy-to-navigate repository is designed to simplify your learning and development process.
 
 ## Contents
  1. [Learning Paths and Roadmaps](#learning-paths-and-roadmaps)
