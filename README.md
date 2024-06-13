@@ -21,6 +21,8 @@ This repository is our way of assembling the best tutorials, tools, libraries, d
     - JavaScript, Type Script, 
     - React, React Native, Angular, Vue, Node.js, 
     - Android, iOS, Electron, Flutter
+ 4. [Communities](#communities)
+ 5. [Open Source Contributions](#open-source-contributions)
 
 ## Learning Paths and Roadmaps
 The journey of becoming a frontend developer can feel overwhelming, but structured learning paths and roadmaps can make the process more manageable and efficient. 
