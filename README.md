@@ -89,13 +89,13 @@ The journey of becoming a frontend developer can feel overwhelming, but structur
   - [Official: Tutorial](https://vuejs.org/tutorial/) — The official Vue.js tutorial for learning the basics and advanced concepts of the framework.
   - [Youtube: Vue 3 with TypeScript Jump Start](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gCtAuEdXTjNVE5bbMFo5OD) — A beginner's guide to learning Vue 3 with TypeScript, providing a solid foundation in both technologies.
 - Angular
-  - [Official: Tutorial](https://angular.dev/tutorials/learn-angular)
-  - [Youtube: Learn Angular A-Z: Complete Tutorial for Beginners](https://www.youtube.com/watch?v=JWhRMyyF7nc)
+  - [Official: Tutorial](https://angular.dev/tutorials/learn-angular) — The official Angular tutorial for learning the basics and advanced concepts of the framework.
+  - [Youtube: Learn Angular A-Z: Complete Tutorial for Beginners](https://www.youtube.com/watch?v=JWhRMyyF7nc) — A video tutorial covering Angular from A to Z for beginners.
 - Node
-  - [How to Get Started with NodeJS – a Handbook for Beginners](https://www.freecodecamp.org/news/get-started-with-nodejs/)
-  - [Official: Tutorial](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
+  - [How to Get Started with NodeJS – a Handbook for Beginners](https://www.freecodecamp.org/news/get-started-with-nodejs/) — A beginner's handbook for getting started with Node.js, covering fundamental concepts and practical examples.
+  - [Official: Tutorial](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs) — The official Node.js tutorial for learning the basics and getting started with Node.js.
 - Apple
-  - [Official Swift Tutorial](https://developer.apple.com/learn/)
+  - [Official Swift Tutorial](https://developer.apple.com/learn/) — The official tutorial from Apple for learning Swift, covering basics to advanced concepts for developing iOS applications.
 
 ### Courses
 
@@ -134,15 +134,10 @@ The journey of becoming a frontend developer can feel overwhelming, but structur
 
 ### Playgrounds
 
-- [Playcode](https://playcode.io/new) — A lightning-fast playground for learning/testing/experimenting in JS or TS, along with HTML5 and CSS, with extensive library support.
-- [JSFiddle](https://jsfiddle.net/)
-- [CodePen](https://codepen.io/)
-- [TryRuby](https://try.ruby-lang.org/playground/)
+- [Playcode](https://playcode.io/new) — A playground for learning/testing/experimenting in JS or TS, along with HTML5 and CSS, with extensive library support.
+- [JSFiddle](https://jsfiddle.net/) — An online IDE for testing and sharing HTML, CSS, and JavaScript code snippets.
+- [CodePen](https://codepen.io/) — A social development environment for front-end designers and developers, allowing you to build and deploy websites, showcase work.
 - [Regex101](https://regex101.com/) — A place to write and debug regular expressions with extensive and helpful feedback.
-
-### Legalities
-
-- [Choose a license](https://choosealicense.com/) — Explanations and comparisons of various licenses to help you find the right one to include with your code.
 
 ## Communities
 
@@ -156,3 +151,7 @@ The journey of becoming a frontend developer can feel overwhelming, but structur
 - [How to contribute to open source](https://blog.rysolv.com/how-to-contribute-to-open-source) — A guide on how to start contributing to open-source projects.
 - **How to find repos to contribute** — Search on GitHub with label → `first-timers-only` to find out the issues that are good for first time contributors. Further filter with programming language of your choice.
 - **GitHub Repos inviting contributors** — Search on GitHub with label → `help-wanted` to find out the repos that are inviting contributors.
+
+## Legalities
+
+- [Choose a license](https://choosealicense.com/) — Explanations and comparisons of various licenses to help you find the right one to include with your code.
