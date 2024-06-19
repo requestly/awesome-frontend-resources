@@ -8,21 +8,21 @@ Awesome Frontend Resources is a curated collection of top tutorials, tools, libr
 
 ## Contents
 
- 1. [Learning Paths and Roadmaps](#learning-paths-and-roadmaps)
+1.  [Learning Paths and Roadmaps](#learning-paths-and-roadmaps)
     - Development, Languages, Frameworks,
     - Mobile Dev, Engineering
- 2. [Learning Resources](#learning-resources)
+2.  [Learning Resources](#learning-resources)
     - JavaScript, Type Script,
     - React, React Native, Angular, Vue, Node.js,
     - Android, iOS, Electron, Flutter,
     - Data Structure
- 3. [Docs & CheatSheets](#docs--cheatsheets)
+3.  [Docs & CheatSheets](#docs--cheatsheets)
     - JavaScript, Type Script,
     - React, React Native, Angular, Vue, Node.js,
     - Android, iOS, Electron, Flutter
- 4. [Development Resources](#development-resources)
- 5. [Communities](#communities)
- 6. [Open Source Contributions](#open-source-contributions)
+4.  [Development Resources](#development-resources)
+5.  [Communities](#communities)
+6.  [Open Source Contributions](#open-source-contributions)
 
 ## Learning Paths and Roadmaps
 
@@ -33,6 +33,7 @@ The journey of becoming a frontend developer can feel overwhelming, but structur
 - [Frontend Beginner Roadmap](https://roadmap.sh/frontend?r=frontend-beginner) — A short roadmap for learning the basics before starting a frontend development role.
 - [Frontend Roadmap](https://roadmap.sh/frontend) — A comprehensive roadmap covering all areas of frontend development, guiding you from beginner to expert level.
 - [Full Stack Roadmap](https://roadmap.sh/full-stack) — Covers a wide range of technologies for both frontend and backend development, essential for full-stack development.
+- [IOS Developer Roadmap](https://roadmap.sh/ios) - A comprehensive roadmap covering all areas of IOS development. It covers patterns and techniques, app components, fundamentals, and so on.
 
 ### LANGUAGES
 
@@ -66,7 +67,8 @@ The journey of becoming a frontend developer can feel overwhelming, but structur
 - [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed?tab=readme-ov-file) — A comprehensive series diving deep into JavaScript concepts and mechanics.
 - [Eloquent Javascript](https://eloquentjavascript.net/index.html) — A modern introduction to JavaScript, covering the language's core features and best practices.
 - [Learn Javascript: Beginer Edition](https://javascript.sumankunwar.com.np/en/) — A beginner-friendly guide to learning JavaScript from the ground up.
-- [Introduction to Algorithms, Fourth Edition (CLRS)](https://en.wikipedia.org/wiki/Introduction_to_Algorithms) — *The book* on algorithms. Gain a better theoretical understanding of the mathematical building blocks of the web.
+- [Introduction to Algorithms, Fourth Edition (CLRS)](https://en.wikipedia.org/wiki/Introduction_to_Algorithms) — _The book_ on algorithms. Gain a better theoretical understanding of the mathematical building blocks of the web.
+- [Pro Git 2nd Edition](https://git-scm.com/book/en/v2) - The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress, is available here.
 
 ### Online Library
 
