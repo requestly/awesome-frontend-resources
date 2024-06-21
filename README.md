@@ -104,6 +104,7 @@ The journey of becoming a frontend developer can feel overwhelming, but structur
 - [CodeAcademy: Introduction to JS](https://www.codecademy.com/learn/introduction-to-javascript) — An interactive course introducing the basics of JavaScript.
 - [freeCodeCamp: JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) — A free course covering JavaScript fundamentals, algorithms, and data structures.
 - [TheOdinProject: JavaScript Course](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) — A comprehensive course for learning JavaScript in the context of full-stack development.
+- [University of Helsinki: Full Stack Open](https://fullstackopen.com/en/) - Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript 
 - [Youtube: Traversy Crash Course in Javascript](https://www.youtube.com/watch?v=hdI2bqOjy3c) — A popular crash course on JavaScript fundamentals by Traversy Media.
 - [Youtube: Javascript Under The Hood](https://www.youtube.com/playlist?list=PLillGF-Rfqbars4vKNtpcWVDUpVOVTlgB) — A video series exploring the inner workings of JavaScript.
 
