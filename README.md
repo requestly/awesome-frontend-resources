@@ -122,6 +122,7 @@ The journey of becoming a frontend developer can feel overwhelming, but structur
 ### Cheatsheets
 
 - [HTML Cheatsheets](https://websitesetup.org/html5-cheat-sheet/) — A handy reference for HTML5 elements and attributes.
+- [Emmet Cheatsheet](https://docs.emmet.io/cheat-sheet/) — A very handy reference to get started on Emmet which is an essential tool for writing HTML.
 
 ### Official Documentations
 
