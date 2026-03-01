@@ -143,6 +143,10 @@ The journey of becoming a frontend developer can feel overwhelming, but structur
 - [CodePen](https://codepen.io/) — A social development environment for front-end designers and developers, allowing you to build and deploy websites, showcase work.
 - [Regex101](https://regex101.com/) — A place to write and debug regular expressions with extensive and helpful feedback.
 
+### Tools
+
+- [PageGuard](https://pageguard.org) — A free all-in-one website health scanner that checks ADA/WCAG accessibility, SEO, performance, and best practices in a single scan.
+
 ## Communities
 
 - [dev.to](https://dev.to/) — A community platform for developers to share articles, tutorials, and discussions.
