@@ -1,4 +1,5 @@
 # Awesome Frontend Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+- [submission-site-discovery](https://github.com/SeeleAI/submission-site-discovery) - Automated discovery of product submission sites, launch directories, and distribution channels for indie hackers.
 
 > A curated collection of awesome resources for frontend developers: tutorials, tools, libraries, design assets, and more!
 
