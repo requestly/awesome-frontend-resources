@@ -143,6 +143,10 @@ The journey of becoming a frontend developer can feel overwhelming, but structur
 - [CodePen](https://codepen.io/) — A social development environment for front-end designers and developers, allowing you to build and deploy websites, showcase work.
 - [Regex101](https://regex101.com/) — A place to write and debug regular expressions with extensive and helpful feedback.
 
+### AI Image Tools
+
+- [Igly](https://igly.ai) — An all-in-one AI image editor with 12+ tools for background removal, inpainting, upscaling, restoration, generation, and e-commerce image composition on an infinite canvas.
+
 ## Communities
 
 - [dev.to](https://dev.to/) — A community platform for developers to share articles, tutorials, and discussions.
