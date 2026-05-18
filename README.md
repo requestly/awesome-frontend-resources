@@ -21,8 +21,9 @@ Awesome Frontend Resources is a curated collection of top tutorials, tools, libr
     - React, React Native, Angular, Vue, Node.js,
     - Android, iOS, Electron, Flutter
 4.  [Development Resources](#development-resources)
-5.  [Communities](#communities)
-6.  [Open Source Contributions](#open-source-contributions)
+5.  [Design Assets](#design-assets)
+6.  [Communities](#communities)
+7.  [Open Source Contributions](#open-source-contributions)
 
 ## Learning Paths and Roadmaps
 
@@ -142,6 +143,10 @@ The journey of becoming a frontend developer can feel overwhelming, but structur
 - [JSFiddle](https://jsfiddle.net/) — An online IDE for testing and sharing HTML, CSS, and JavaScript code snippets.
 - [CodePen](https://codepen.io/) — A social development environment for front-end designers and developers, allowing you to build and deploy websites, showcase work.
 - [Regex101](https://regex101.com/) — A place to write and debug regular expressions with extensive and helpful feedback.
+
+## Design Assets
+
+- [Chinese Color Atlas](https://github.com/chroma-cathy/chinese-color-atlas) — Free Chinese traditional color tokens, CSS variables, Tailwind theme, Figma samples, and Procreate swatches for frontend design systems.
 
 ## Communities
 
