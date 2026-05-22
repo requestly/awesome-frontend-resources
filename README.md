@@ -82,6 +82,7 @@ The journey of becoming a frontend developer can feel overwhelming, but structur
   - [JavaScrip Design Patterns](https://www.patterns.dev/) — A resource for learning design patterns in JavaScript for writing clean and efficient code.
   - [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbook.io/mostly-adequate-guide) — An accessible guide to functional programming concepts in JavaScript.
 - React
+- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
   - [Youtube: React Tutorial for Beginners](https://www.youtube.com/watch?v=SqcY0GlETPk) — A beginner-friendly video tutorial introducing the fundamentals of React.
 - React Native
   - [Official: Tutorial cum Doc](https://reactnative.dev/docs/getting-started) — The official React Native documentation and tutorial for getting started.
