@@ -142,6 +142,9 @@ The journey of becoming a frontend developer can feel overwhelming, but structur
 - [JSFiddle](https://jsfiddle.net/) — An online IDE for testing and sharing HTML, CSS, and JavaScript code snippets.
 - [CodePen](https://codepen.io/) — A social development environment for front-end designers and developers, allowing you to build and deploy websites, showcase work.
 - [Regex101](https://regex101.com/) — A place to write and debug regular expressions with extensive and helpful feedback.
+### Browser-Based Utilities
+
+- [TinyTools](https://tinytools-smoky.vercel.app/) — Free single-purpose browser utilities for frontend developers. Includes: OG image generator, favicon generator, color palette generator, SEO meta tag generator, domain name generator, and AI background remover. No signup, no server uploads. Open source.
 
 ## Communities
 
