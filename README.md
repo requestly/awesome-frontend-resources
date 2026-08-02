@@ -5,6 +5,7 @@
 ### What is Awesome Frontend Resources?
 
 Awesome Frontend Resources is a curated collection of top tutorials, tools, libraries, and design assets for frontend development. Whether you're a beginner or a seasoned pro, this easy-to-navigate repository is designed to simplify your learning and development process.
+- [Let Me Think](https://letmethink.cc/) - A digital wellbeing product studio creating calm tools for attention, creativity, and real connection.
 
 ## Contents
 
