@@ -119,6 +119,10 @@ The journey of becoming a frontend developer can feel overwhelming, but structur
 
 ## Docs & CheatSheets
 
+### Specifications
+
+- [Vibe Coding UI Specification](https://horizonx.so/resources/vibe-coding-ui-specification) — Free, MIT-licensed contract for AI-assisted React and Tailwind interfaces, covering design tokens, component states, responsive behavior, WCAG 2.2 AA, reduced motion, production gates, and reusable YAML.
+
 ### Cheatsheets
 
 - [HTML Cheatsheets](https://websitesetup.org/html5-cheat-sheet/) — A handy reference for HTML5 elements and attributes.
