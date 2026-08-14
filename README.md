@@ -123,6 +123,7 @@ The journey of becoming a frontend developer can feel overwhelming, but structur
 
 - [HTML Cheatsheets](https://websitesetup.org/html5-cheat-sheet/) — A handy reference for HTML5 elements and attributes.
 - [Emmet Cheatsheet](https://docs.emmet.io/cheat-sheet/) — A very handy reference to get started on Emmet which is an essential tool for writing HTML.
+- [Frontend System Design Interview Checklist: Final Review](https://frontendatlas.com/guides/system-design-blueprint/checklist) — A free 10-minute final-review checklist covering requirements, architecture, state and API contracts, UI states, accessibility, performance, reliability, trade-offs, and closing evidence.
 
 ### Official Documentations
 
