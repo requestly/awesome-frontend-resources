@@ -164,6 +164,7 @@ The journey of becoming a frontend developer can feel overwhelming, but structur
 - [Shadcn UI](https://github.com/shadcn-ui/ui) - Shadcn UI is a UI component library designed to help developers build modern and responsive user interfaces with ease.
 - [Mermaid](https://github.com/mermaid-js/mermaid) - Mermaid is a JavaScript-based diagramming and charting tool that enables developers and technical writers to create complex diagrams using a simple, markdown-like syntax.
 - [docusaurus](https://github.com/facebook/docusaurus) - Docusaurus is an open-source tool developed by Facebook to help you easily build, deploy, and maintain documentation websites.
+- [speedy-router](https://github.com/anonrig/router) - The TanStack Router API rebuilt for faster navigations and SSR.
 
 ## Legalities
 
