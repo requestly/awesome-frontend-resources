@@ -141,6 +141,7 @@ The journey of becoming a frontend developer can feel overwhelming, but structur
 - [Playcode](https://playcode.io/new) — A playground for learning/testing/experimenting in JS or TS, along with HTML5 and CSS, with extensive library support.
 - [JSFiddle](https://jsfiddle.net/) — An online IDE for testing and sharing HTML, CSS, and JavaScript code snippets.
 - [CodePen](https://codepen.io/) — A social development environment for front-end designers and developers, allowing you to build and deploy websites, showcase work.
+- [CSS Grid Generator](https://alltoolsverse.com/tools/css-grid-generator/) - Build CSS Grid layouts with live preview, responsive minmax tracks, grid-template-areas, and per-item spans.
 - [Regex101](https://regex101.com/) — A place to write and debug regular expressions with extensive and helpful feedback.
 
 ## Communities
