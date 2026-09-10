@@ -67,6 +67,7 @@ The journey of becoming a frontend developer can feel overwhelming, but structur
 - [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed?tab=readme-ov-file) — A comprehensive series diving deep into JavaScript concepts and mechanics.
 - [Eloquent Javascript](https://eloquentjavascript.net/index.html) — A modern introduction to JavaScript, covering the language's core features and best practices.
 - [Learn Javascript: Beginer Edition](https://javascript.sumankunwar.com.np/en/) — A beginner-friendly guide to learning JavaScript from the ground up.
+- [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) — A free and open-source guide to TypeScript fundamentals and practical patterns.
 - [Introduction to Algorithms, Fourth Edition (CLRS)](https://en.wikipedia.org/wiki/Introduction_to_Algorithms) — _The book_ on algorithms. Gain a better theoretical understanding of the mathematical building blocks of the web.
 - [Pro Git 2nd Edition](https://git-scm.com/book/en/v2) - The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress, is available here.
 
