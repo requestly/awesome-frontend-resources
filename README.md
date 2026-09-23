@@ -34,6 +34,7 @@ The journey of becoming a frontend developer can feel overwhelming, but structur
 - [Frontend Roadmap](https://roadmap.sh/frontend) — A comprehensive roadmap covering all areas of frontend development, guiding you from beginner to expert level.
 - [Full Stack Roadmap](https://roadmap.sh/full-stack) — Covers a wide range of technologies for both frontend and backend development, essential for full-stack development.
 - [IOS Developer Roadmap](https://roadmap.sh/ios) - A comprehensive roadmap covering all areas of IOS development. It covers patterns and techniques, app components, fundamentals, and so on.
+- [KeyDrift](https://keydrift.dev) — Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
 
 ### LANGUAGES
 
