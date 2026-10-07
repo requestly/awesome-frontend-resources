@@ -142,6 +142,7 @@ The journey of becoming a frontend developer can feel overwhelming, but structur
 - [JSFiddle](https://jsfiddle.net/) — An online IDE for testing and sharing HTML, CSS, and JavaScript code snippets.
 - [CodePen](https://codepen.io/) — A social development environment for front-end designers and developers, allowing you to build and deploy websites, showcase work.
 - [Regex101](https://regex101.com/) — A place to write and debug regular expressions with extensive and helpful feedback.
+- [BestJSON jq Playground](https://bestjson.com/jq-playground) — Run jq filters against JSON locally in the browser without an account or input upload.
 
 ## Communities
 
