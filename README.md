@@ -168,3 +168,4 @@ The journey of becoming a frontend developer can feel overwhelming, but structur
 ## Legalities
 
 - [Choose a license](https://choosealicense.com/) — Explanations and comparisons of various licenses to help you find the right one to include with your code.
+- [Mode VC Radar MCP](https://modevc.com/api/mcp) — Read-only venture capital & AI market research MCP server (39 empirical AI charts, 3,650 VC firms, SEC Form D filings, and 18 founder financial calculators; free Streamable HTTP at https://modevc.com/api/mcp).
