@@ -143,6 +143,10 @@ The journey of becoming a frontend developer can feel overwhelming, but structur
 - [CodePen](https://codepen.io/) — A social development environment for front-end designers and developers, allowing you to build and deploy websites, showcase work.
 - [Regex101](https://regex101.com/) — A place to write and debug regular expressions with extensive and helpful feedback.
 
+### Testing Tools
+
+- [agent-qa](https://vostride.com) — Natural-language web and mobile testing with persistent memory and self-improvement. Free CLI; model/device costs apply. FSL-1.1-ALv2 restricts competing commercial use.
+
 ## Communities
 
 - [dev.to](https://dev.to/) — A community platform for developers to share articles, tutorials, and discussions.
